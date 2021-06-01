@@ -6,8 +6,10 @@
     padding: 0 30px;
     border-left: 1px solid #e7e7e7;
 }
-
-
+#nboard_upper{
+	width:100%;
+	height: 20%;
+}
 
 
 
@@ -26,7 +28,11 @@
 
 
 /* nboard-paging */
-
+#pagination-box{
+	width:100%;
+	height:5%;
+	background-color:gray;
+}
 .pagination {
   position: absolute;
   left: 50%;
